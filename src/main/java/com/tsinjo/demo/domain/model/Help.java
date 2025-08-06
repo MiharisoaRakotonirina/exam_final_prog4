@@ -10,7 +10,7 @@ import lombok.*;
 @ToString
 public class Help {
   private Long id;
-  private Beneficiary beneficiary;
+  private Receiver receiver;
   private Payment payment;
   private String description;
 }
