@@ -9,6 +9,6 @@ import lombok.*;
 @EqualsAndHashCode
 @ToString
 public class Receiver {
-    private String fullName;
-    private String email;
+  private String fullName;
+  private String email;
 }
